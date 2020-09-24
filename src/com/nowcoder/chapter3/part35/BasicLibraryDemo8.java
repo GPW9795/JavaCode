@@ -1,4 +1,4 @@
-package com.newcoder.chapter3.part35;
+package com.nowcoder.chapter3.part35;
 
 /**
  * StringBuilder
