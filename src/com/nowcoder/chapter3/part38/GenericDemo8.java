@@ -35,7 +35,7 @@ public class GenericDemo8 {
         System.out.println(queue1.poll().toUpperCase());
 
         // 错误示范
-//        Queue<Integer> queue2 = queue;
+//        Queue<Integer> queue2 = queue;IO
 //        System.out.println(queue2.poll().doubleValue());
 
     }
