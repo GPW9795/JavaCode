@@ -17,6 +17,8 @@ public class InetAddressDemo {
         InetAddress local = InetAddress.getByAddress(new byte[]{127,0,0,1});
         System.out.println(local.getHostName());
         System.out.println(local.isReachable(2000));
+
+        System.out.println(InetAddress.getLocalHost());
     }
 
 }
